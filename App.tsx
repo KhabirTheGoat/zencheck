@@ -212,7 +212,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="max-w-6xl mx-auto mt-12 pt-8 border-t border-slate-100 flex flex-col md:flex-row justify-between items-center text-slate-400 text-xs gap-4">
-        <p>&copy; 2024 ZenCheck Checklist App. Privacy-first: Your data never leaves this tab.</p>
+        <p>&copy; 2026 ZenCheck Checklist App by Khabir The Goat. Privacy-first: Your data never leaves this tab.</p>
         <div className="flex items-center gap-6">
           <span className="flex items-center gap-1">
             <i className="fa-solid fa-lock text-emerald-400"></i>
