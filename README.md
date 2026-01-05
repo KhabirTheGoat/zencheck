@@ -1,6 +1,6 @@
 # Zen Check
 
-Zen Check is a lightweight web-based checklist tool designed to help you get tasks done and move on with your day — no clutter, no friction, no productivity theater.
+Zen Check is a lightweight web-based checklist tool designed to help you get tasks done and move on with your day.  No clutter, no friction, no productivity theater.
 
 Create a checklist, tick things off, and bounce.
 If you want persistence, you can import and export your data across sessions.
